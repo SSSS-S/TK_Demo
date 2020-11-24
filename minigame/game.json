@@ -1,0 +1,24 @@
+{
+  "deviceOrientation": "landscape",
+  "engine": true,
+  "plugins": {
+    "WXEngine": {
+      "version": "0.6.26",
+      "provider": "wx4d5893418b75cb20",
+      "contexts": [
+        {
+          "type": "isolatedContext"
+        }
+      ]
+    },
+    "WXBridge": {
+      "provider": "wxe92a56f105f5963d",
+      "version": "0.0.6",
+      "contexts": [
+        {
+          "type": "gameContext"
+        }
+      ]
+    }
+  }
+}

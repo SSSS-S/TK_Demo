@@ -1,0 +1,32 @@
+{
+  "name": "System::Effect::HDR",
+  "shaderProperties": [
+    {
+      "key": "_Exposure",
+      "type": "Float",
+      "default": [
+        1
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "key": "sourceTex",
+      "type": "Texture2D",
+      "default": "white"
+    }
+  ],
+  "defaultRenderQueue": 2000,
+  "passes": [
+    {
+      "lightMode": "Tonemapping",
+      "useMaterialRenderStates": false,
+      "vs": "./Screen.vertex.hlsl",
+      "ps": "./HDR.pixel.hlsl",
+      "renderStates": {}
+    }
+  ],
+  "editorInfo":{
+    "assetVersion":2
+  }
+}

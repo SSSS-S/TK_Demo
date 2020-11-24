@@ -1,0 +1,165 @@
+{
+    "name": "System::Effect::StandardLit",
+    "shaderProperties": [
+        {
+            "key": "_Color",
+            "type": "Vector4",
+            "default": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "key": "_Smoothness",
+            "type": "Float",
+            "default": [
+                0.5
+            ]
+        },
+        {
+            "key": "_EmissionColor",
+            "type": "Vector4",
+            "default": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "key": "_MainTex_ST",
+            "type": "Vector4",
+            "default": [
+                1,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "key": "_Cutoff",
+            "type": "Float",
+            "default": [
+                0.3
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "key": "_MainTex",
+            "type": "Texture2D",
+            "default": "white"
+        },
+        {
+            "key": "_NormalMap",
+            "type": "Texture2D",
+            "default": "white"
+        },
+        {
+            "key": "_MetallicGlossMap",
+            "type": "Texture2D",
+            "default": "white"
+        },
+        {
+            "key": "_OcclusionMap",
+            "type": "Texture2D",
+            "default": "white"
+        },
+        {
+            "key": "_EmissionMap",
+            "type": "Texture2D",
+            "default": "white"
+        }
+    ],
+    "defaultRenderQueue": 2000,
+    "passes": [
+        {
+            "lightMode": "ForwardBase",
+            "vs": "./StandardLit.vertex.hlsl",
+            "ps": "./StandardLit.pixel.hlsl",
+            "compileFlags": [
+                "Fog",
+                "Shadow",
+                "Skin",
+                "LightMap"
+            ],
+            "multiCompile": [
+                [
+                    "USE_NORMALMAP",
+                    "__"
+                ],
+                [
+                    "USE_ALPHA_TEST",
+                    "__"
+                ],
+                [
+                    "USE_EMISSIONMAP",
+                    "__"
+                ],
+                [
+                    "USE_METALLICMAP",
+                    "__"
+                ],
+                [
+                    "USE_OCCLUTIONMAP",
+                    "__"
+                ]
+            ],
+            "shaderFeatures": [],
+            "skipVariants": [],
+            "useMaterialRenderStates": true,
+            "renderStates": {
+                "blendOn": false,
+                "cullOn": true,
+                "cullFace": "BACK"
+            }
+        },
+        {
+            "lightMode": "ForwardAdd",
+            "vs": "./StandardLitAdd.vertex.hlsl",
+            "ps": "./StandardLitAdd.pixel.hlsl",
+            "compileFlags": [
+                "Fog",
+                "Shadow",
+                "Skin",
+                "LightMap"
+            ],
+            "multiCompile": [
+                [
+                    "USE_NORMALMAP",
+                    "__"
+                ],
+                [
+                    "USE_ALPHA_TEST",
+                    "__"
+                ],
+                [
+                    "USE_EMISSIONMAP",
+                    "__"
+                ],
+                [
+                    "USE_METALLICMAP",
+                    "__"
+                ],
+                [
+                    "USE_OCCLUTIONMAP",
+                    "__"
+                ]
+            ],
+            "shaderFeatures": [],
+            "skipVariants": [],
+            "useMaterialRenderStates": true,
+            "renderStates": {
+                "blendOn": false,
+                "cullOn": true,
+                "cullFace": "BACK"
+
+            }
+        }
+    ],
+    "editorInfo": {
+        "assetVersion": 2
+    }
+}

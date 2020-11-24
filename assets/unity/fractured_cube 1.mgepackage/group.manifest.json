@@ -1,0 +1,658 @@
+{
+	"resourceDefinitions":{
+		"Assets/Easy Weapons/Prefabs/Misc/fractured_cube 1.prefab":{
+			"dependencies":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell.mesh",
+				"Assets/Mat/Red.mat",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_001.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_002.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_003.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_004.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_005.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_006.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_007.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_008.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_009.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_002.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_003.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_004.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_005.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_001.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_002.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_003.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_004.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_005.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_007.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_008.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_009.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_010.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_011.mesh",
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_007.mesh"
+			],
+			"type":"prefab",
+			"descriptionFileID":"Assets/Easy Weapons/Prefabs/Misc/fractured_cube 1.prefab",
+			"useFile":[]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell.mesh.bin"
+			]
+		},
+		"Assets/Mat/Red.mat":{
+			"dependencies":[],
+			"type":"material",
+			"descriptionFileID":"Assets/Mat/Red.mat",
+			"useFile":[]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_001.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_001.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_001.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_002.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_002.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_002.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_003.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_003.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_003.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_004.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_004.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_004.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_005.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_005.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_005.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_006.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_006.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_006.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_007.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_007.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_007.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_008.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_008.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_008.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_009.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_009.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_009.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_002.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_002.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_002.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_003.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_003.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_003.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_004.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_004.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_004.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_005.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_005.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_005.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_001.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_001.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_001.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_002.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_002.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_002.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_003.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_003.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_003.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_004.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_004.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_004.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_005.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_005.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_005.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_007.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_007.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_007.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_008.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_008.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_008.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_009.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_009.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_009.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_010.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_010.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_010.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_011.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_011.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_011.mesh.bin"
+			]
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_007.mesh":{
+			"dependencies":[],
+			"type":"mesh",
+			"descriptionFileID":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_007.mesh",
+			"useFile":[
+				"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_007.mesh.bin"
+			]
+		}
+	},
+	"fileDescriptions":{
+		"Assets/Easy Weapons/Prefabs/Misc/fractured_cube 1.prefab":{
+			"path":"Assets/Easy Weapons/Prefabs/Misc/fractured_cube 1.prefab"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell.mesh"
+		},
+		"Assets/Mat/Red.mat":{
+			"path":"Assets/Mat/Red.mat"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_001.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_001.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_001.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_001.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_002.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_002.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_002.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_002.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_003.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_003.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_003.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_003.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_004.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_004.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_004.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_004.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_005.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_005.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_005.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_005.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_006.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_006.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_006.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_006.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_007.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_007.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_007.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_007.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_008.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_008.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_008.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_008.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_009.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_009.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_009.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_009.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_002.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_002.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_002.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_002.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_003.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_003.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_003.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_003.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_004.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_004.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_004.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_004.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_005.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_005.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_005.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_005.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_001.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_001.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_001.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_001.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_002.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_002.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_002.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_002.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_003.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_003.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_003.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_003.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_004.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_004.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_004.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_004.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_005.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_005.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_005.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_005.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_007.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_007.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_007.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_007.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_008.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_008.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_008.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_008.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_009.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_009.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_009.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_009.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_010.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_010.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_010.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_010.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_011.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_011.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_011.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_011.mesh"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_007.mesh.bin":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_007.mesh.bin"
+		},
+		"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_007.mesh":{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_007.mesh"
+		}
+	},
+	"files":[
+		{
+			"path":"Assets/Easy Weapons/Prefabs/Misc/fractured_cube 1.prefab",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Mat/Red.mat",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_001.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_001.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_002.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_002.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_003.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_003.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_004.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_004.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_005.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_005.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_006.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_006.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_007.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_007.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_008.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_008.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_009.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_001_cell_009.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_002.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_002.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_003.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_003.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_004.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_004.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_005.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_005.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_001.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_001.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_002.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_002.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_003.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_003.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_004.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_004.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_005.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_005.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_007.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_007.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_008.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_008.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_009.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_009.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_010.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_010.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_011.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_006_cell_011.mesh",
+			"filetype":"json"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_007.mesh.bin",
+			"filetype":"arraybuffer"
+		},
+		{
+			"path":"Assets/Easy Weapons/Models/fractured_cube-Cube_cell_007.mesh",
+			"filetype":"json"
+		}
+	],
+	"version":"1.0.4"
+}

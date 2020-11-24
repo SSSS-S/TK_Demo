@@ -1,0 +1,18 @@
+{
+  "name": "System::Effect::FXAA",
+  "shaderProperties": [],
+  "textures": [],
+  "defaultRenderQueue": 2000,
+  "passes": [
+    {
+      "lightMode": "Default",
+      "useMaterialRenderStates": false,
+      "vs": "./Screen.vertex.hlsl",
+      "ps": "./FXAA.pixel.hlsl",
+      "renderStates": {}
+    }
+  ],
+  "editorInfo":{
+    "assetVersion":2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "System::Effect::Blit",
+  "shaderProperties": [],
+  "textures": [],
+  "defaultRenderQueue": 2000,
+  "passes": [
+    {
+      "lightMode": "Default",
+      "useMaterialRenderStates": false,
+      "vs": "./Screen.vertex.hlsl",
+      "ps": "./Screen.pixel.hlsl",
+      "renderStates": {}
+    },
+    {
+      "lightMode": "Additive",
+      "useMaterialRenderStates": false,
+      "vs": "./Screen.vertex.hlsl",
+      "ps": "./Screen.pixel.hlsl",
+      "renderStates": {
+        "blendOn": true,
+        "blendSrc": "ONE",
+        "blendDst": "ONE",
+        "blendFunc": "ADD"
+      }
+    }
+  ],
+  "editorInfo":{
+    "assetVersion":2
+  }
+}
